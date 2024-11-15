@@ -1,0 +1,5 @@
+title: AI & Robotic Labs blog
+description: News around AI & Robotic Labs
+baseurl: "/my-blog" # Optional, if not hosting on the root domain
+url: "https://<username>.github.io"
+theme: jekyll-theme-cayman
