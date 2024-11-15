@@ -1,2 +1,2 @@
 # blog
-Blog for AI &amp; Robotic LABS
+Blog for AI & Robotic Labs
